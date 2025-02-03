@@ -1,3 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geek-Egret&bg_color=bfad6f&text_color=474d49&title_color=0b88bb&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geek-Egret&theme=onedark&text_color=b4b3b8&title_color=0b88bb&locale=cn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Egret&layout=donut&bg_color=bfad6f&title_color=0b88bb&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Egret&layout=compact&bg_color=282c34&title_color=0b88bb&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
